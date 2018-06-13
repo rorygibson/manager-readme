@@ -26,7 +26,7 @@ I live in Doncaster. Married to Vicki, a veterinary surgeon. 2 kids - Alannah (1
 We have 32 pets at last count - this is what happens when you marry a vet.
 
 I'm originally from a little village called Dollar, near Stirling, in Scotland.
-This means I have an ethnic accent which you Yorkshire types may find hard to understand.
+This means I have a funny accent which you may find hard to understand.
 My accent gets thicker when I (a) have been home on holiday or (b) am very angry.
 
 
@@ -35,19 +35,22 @@ My accent gets thicker when I (a) have been home on holiday or (b) am very angry
 
 A potted history:
  - PHP developer (briefly)
- - Java developer
- - Agile consultant
- - Technical architect (TechnoPhobia, Sheffield)
+ - Java developer (Graham Technology in Glasgow; HPI in Harrogate)
+ - Agile consultant (Valtech, mostly in Blackpool)
+ - Contract developer building an FX trading platform for Reuters (BJSS, Leeds)
+ - Technical architect / team lead / agile coach + Java & Ruby (TechnoPhobia, Sheffield)
  - Scrum master (Tesco)
  - CTO of a big data startup (Bright North, London)
  - Delivery lead (public sector transformation project)
  - Principal architect in Core (SBG)
  - Head of Tech in Data (SBG)
 
-Lots of this was in Yorkshire so I often find I know people wherever I go.
+I still code, by the way. Mostly in Clojure, because while Lisps are 50 years old now they're still The Future.
 
 
 ## My job
+
+My main responsibilities are:
 
 1) help you to do your jobs effectively
 
@@ -94,6 +97,8 @@ I bias towards openness; if there's something you want to know, ask me.
 
 My calendar can be busy, but I aim to make time for my team a priority. If you need me and you can't get a calendar slot, or it's more urgent, DM me in Slack. I aim to respond to Slack direct messages as soon as possible.
 
+I ask lots of questions. This isn't because I don't trust you to do your job - it's because I do mine much more effectively with lots of information. Please humour me.
+
 
 ## One-to-ones (1:1s)
 
@@ -111,17 +116,20 @@ Outside of a 1:1, you can still talk to me any time you need me. Face-to-face is
 
 I like Slack; if you can't see me face-to-face, Slack me.
 
-I get a lot of email. I don't read all of it, and I do use Outlook filters. If you require a timely or guaranteed response, use Slack.
+I get a lot of email. I don't read all of it, and I do use Outlook filters. If you require a timely or guaranteed response, use Slack or come and talk to me with your voice.
 
 
 ## Meetings
 
 I go to a lot of meetings. Meetings are very expensive to an organisation - the time per person, the context switching, the opporunity cost of all the things you could be thinking about instead of sweating in a small room full of technology people...
 
-Therefore if I run a meeting, I try to make sure that it
+Therefore, if I run a meeting, I try to make sure that it
 
 a) has an agenda (or at least a declared purpose)
 b) starts on time. If you're late, you'll miss the start.
 c) has the right attendees. If you'd like to forward a meeting invitation, please confirm with me first so we don't drag in people who have other things to do.
 
 If I'm attending a meeting and I'm not clear on the purpose of my attendance, I'll ask.
+
+
+This document will be updated, and is, perpetually a work in progress. Like me.
