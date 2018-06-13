@@ -22,7 +22,7 @@ I'm new to this role.  I don’t know much yet.
 
 ## Who am I?
 
-I live in Doncaster. Married to Vicki, a veterinary surgeon. 2 kids - Alannah (10) and Caitlyn (5).
+I live in Doncaster. I'm married to a veterinary surgeon. We have 2 kids - both girls, both small (10 and 5).
 We have 32 pets at last count - this is what happens when you marry a vet.
 
 I'm originally from a little village called Dollar, near Stirling, in Scotland.
