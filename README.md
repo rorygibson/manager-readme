@@ -107,7 +107,7 @@ These will be 30 minutes long, minimum.
 
 If you report to one of my direct reports, we'll still have 1:1s. These are free-form and more about getting to know each other. These might be scheduled in advance, or I might just walk up to you when I can see you're free (eg kitchen).
 
-1:1s are not for status updates. We've got other tools for that, like Scrums and JIRA. 1:1s ar efor talking about important things about you as a team member and a colleague.
+1:1s are not for status updates. We've got other tools for that, like Scrums and JIRA. 1:1s are for talking about important things about you as a team member and a colleague.
 
 Outside of a 1:1, you can still talk to me any time you need me. Face-to-face is best, Slack is next best, and email is a distant third.
 
