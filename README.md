@@ -22,8 +22,7 @@ I'm new to this role.  I don’t know much yet.
 
 ## Who am I?
 
-I live in Doncaster. I'm married to a veterinary surgeon. We have 2 kids - both girls, both small (10 and 5).
-We have 32 pets at last count - this is what happens when you marry a vet.
+I live in Yorkshire. 
 
 I'm originally from a little village called Dollar, near Stirling, in Scotland.
 This means I have a funny accent which you may find hard to understand.
