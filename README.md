@@ -35,14 +35,13 @@ My accent gets thicker when I (a) have been home on holiday or (b) am very angry
 A potted history:
  - PHP developer (briefly)
  - Java developer (Graham Technology in Glasgow; HPI in Harrogate)
- - Agile consultant (Valtech, mostly in Blackpool)
+ - Agile consultant (Valtech, mostly in Blackpool, mostly public sector)
  - Contract developer building an FX trading platform for Reuters (BJSS, Leeds)
  - Technical architect / team lead / agile coach + Java & Ruby (TechnoPhobia, Sheffield)
  - Scrum master (Tesco)
  - CTO of a big data startup (Bright North, London)
- - Delivery lead (public sector transformation project)
- - Principal architect in Core (SBG)
- - Head of Tech in Data (SBG)
+ - Delivery lead (public sector agile transformation project with a lovely legacy system migration)
+ - Head of Tech at Sky Betting and Gaming (Leeds)
 
 I still code, by the way. Mostly in Clojure, because while Lisps are 50 years old now they're still The Future.
 
@@ -57,15 +56,18 @@ My main responsibilities are:
 
 3) own the processes that help us create and deliver a vision.
 
+4) be responsible to people outside the tech team for everything that we do
+
 
 
 ## What do I value?
 
 I value honesty and transparency. I tend towards being blunt at times; I won't be offended if you do, too.
 
-I value effort. I'm happy for people to make mistakes, as long as it's not the result of inaction (and as long as the mistakes wren't ones that have been made loads of times before)
+I value effort. I'm happy for people to make mistakes, as long as it's not the result of inaction (and as long as the mistakes weren't ones that have been made loads of times before)
 
 I value teams taking collective ownership of work - software development is a team sport. I believe in building teams of "T-shaped people" - team members who have at least one area of  deep expertise, and a breadth of general expertise that helps them to help other people (contrast this with "I-shaped people" who have one, and only one focus and deep skillset).
+
 I believe that the best work is done in an agile team by giving it to a set of self-organising, T-shaped people, who can back each other up and use each other's skills as a unit.
 
 I also value individuals taking responsibility, directly, for things, and owning them. That doesn't mean the team doesn't do the work together - but everything of value should have an owner, or better, a champion.
@@ -115,7 +117,7 @@ Outside of a 1:1, you can still talk to me any time you need me. Face-to-face is
 
 I like Slack; if you can't see me face-to-face, Slack me.
 
-I get a lot of email. I don't read all of it, and I do use Outlook filters. If you require a timely or guaranteed response, use Slack or come and talk to me with your voice.
+I get a lot of email. I don't read all of it, and I do use email filters (aggressively). If you require a timely or guaranteed response, use Slack or come and talk to me with your actual voice.
 
 
 ## Meetings
