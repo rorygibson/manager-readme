@@ -33,22 +33,26 @@ My accent gets thicker when I (a) have been home on holiday or (b) am very angry
 ## How did I get here?
 
 A potted history:
- - PHP developer (briefly)
+ - PHP developer (briefly, building custom CMS systems)
  - Java developer (Graham Technology in Glasgow; HPI in Harrogate)
  - Agile consultant (Valtech, mostly in Blackpool, mostly public sector)
  - Contract developer building an FX trading platform for Reuters (BJSS, Leeds)
- - Technical architect / team lead / agile coach + Java & Ruby (TechnoPhobia, Sheffield)
- - Scrum master (Tesco)
- - CTO of a big data startup (Bright North, London)
- - Delivery lead (public sector agile transformation project with a lovely legacy system migration)
- - Head of Tech at Sky Betting and Gaming (Leeds)
+ - Technical architect / team lead / agile coach + Java & Ruby (an agency called TechnoPhobia, Sheffield)
+ - Delivery lead (Tesco, via Equal Experts)
+ - CTO of a big data startup (Bright North, London, 4 of the hardest and best years of my working life)
+ - Delivery lead (public sector agile transformation project with a horrible legacy system migration from Websphere)
+ - Head of Tech, looking after 60+ people, a whole load of code and several petabytes of personal data in a Hadoop cluster or two (Sky Betting and Gaming, Leeds)
+ 
+ These days I split my time between
+ - Interim CTO / Tech Director / Advisor- helping a bunch of companies, mostly in London, do tech better.
+ - VC and Private Equity due diligence - engage, understand, audit and help companies in growth or acquistion lifecycle stages.
 
 I still code, by the way. Mostly in Clojure, because while Lisps are 50 years old now they're still The Future.
 
 
 ## My job
 
-My main responsibilities are:
+If we're working together, you can see my main responsibilities as:
 
 1) help you to do your jobs effectively
 
@@ -75,7 +79,7 @@ I also value individuals taking responsibility, directly, for things, and owning
 
 ## What will get on my nerves
 
-Teams and people who don't try to improve. As a manager, or from a delivery perspective, it's not my role to make you better. I'm here to give you what you need, as you make yourselves better. It's called Personal Development for a reason.
+Teams and people who don't at least try to improve. As a manager, or from a delivery perspective, it's not my role to make you better. I'm here to give you what you need, as you make yourselves better. It's called Personal Development for a reason.
 
 I really value a (cheesy phrase alert!) can-do attitude. If we've got a problem to solve, or a thing to build, or a plan to make, I prefer to work with team members who focus on the end goal and how to get there, not on the blockers that will surely appear. We'll break those down as we get to them.
 
